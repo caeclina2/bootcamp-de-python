@@ -1,0 +1,32 @@
+from os import system
+system("clear")
+#Sumas y restas
+suma = 2024 + 2000
+print("la suma es ", suma)
+resta = 2024 - 2000
+print("la resta es ", resta)
+
+#multiplicacion y division
+
+mul = 25 * 31
+print(mul)
+
+div = 48 / 6
+print(div)
+
+#Potenciacion
+potencia = 2 ** 5
+print("la potencia de 2 a la 5 es ", potencia)
+
+#division entera
+div_entera = 20 // 3
+print("la parte entera entre 20 y 3 es ", div_entera)
+
+#Resto o modulo
+resto = 20 % 3
+print("el resto entre 20 y 3 es ", resto)
+
+tipo_de_dato=type(2.5)
+print("el 2.5 es de tipo: ", tipo_de_dato)
+
+

@@ -24,13 +24,13 @@ print(conjunto)
 
 diccionario = {
     "nombre": "Magister en matematicas",
-    "apellido"; "Escobar",
+    "apellido": "Escobar",
     "estatura": 1.68,
     "esta feliz": True
 }
 
 print(diccionario["esta feliz"])
-print(["nombre"])
-print(["apellido"])
-print(["estatura"])
+print(diccionario["nombre"])
+print(diccionario["apellido"])
+print(diccionario["estatura"])
 
