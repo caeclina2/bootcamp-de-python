@@ -1,0 +1,11 @@
+from os import system
+system("clear")
+
+print("Mi nombres es CARLOS, tengo 55 años")
+#Nivelando el dia 9 de agosto
+#realizando sumas
+print("la suma de 51 + 34 =", 51+34)
+#realizando restas
+print("la suma de 84 - 16 =", 84-15)
+#realizando productos
+print("la suma de 5 * 34 =", 5*34)
